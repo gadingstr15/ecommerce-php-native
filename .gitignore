@@ -1,0 +1,5 @@
+# File konfigurasi yang berisi password database
+config.php
+
+# Folder untuk gambar produk yang di-upload
+/uploads/
